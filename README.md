@@ -1,2 +1,5 @@
 # PRODIGY_DS_01
-Bar chart creation for visualizing ages  &amp;Genders of population
+
+** Bar chart or histogram to visualize the distribution of  ages or genders in a population.**
+
+
